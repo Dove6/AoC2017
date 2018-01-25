@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512671348 source:d:\programowanie\aoc2017\11\main.c
+	<stdio.h>
+	<stdbool.h>
+

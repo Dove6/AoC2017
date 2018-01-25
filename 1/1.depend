@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512136207 source:d:\programowanie\aoc2017\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
